@@ -1,0 +1,5 @@
+﻿  Dictionary_Part02.cpp
+C:\Users\DELL\Downloads\Overall English Dictionary with C++\sabri_10566781\Dictionary_Part02.cpp(228,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Downloads\Overall English Dictionary with C++\sabri_10566781\Dictionary_Part02.cpp(234,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\Downloads\Overall English Dictionary with C++\sabri_10566781\Dictionary_Part02.cpp(264,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  sabri_10566781.vcxproj -> C:\Users\DELL\Downloads\Overall English Dictionary with C++\x64\Debug\sabri_10566781.exe
